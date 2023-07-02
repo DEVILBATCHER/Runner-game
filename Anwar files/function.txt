@@ -1,0 +1,11 @@
+init
+display set mode
+display update
+screen 
+time clock
+clock tick 
+event get
+sys exit
+event type
+surface
+blit (block image transfer)
